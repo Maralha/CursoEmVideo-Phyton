@@ -1,2 +1,2 @@
 # CursoEmVideo-Phyton
- Desafio Curso de Phyton do Curso em Cideo
+ Desafio Curso de Phyton do Curso em Video
